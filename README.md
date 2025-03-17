@@ -4,6 +4,7 @@ Repositório para armazenar resumos do Git e GitHub. Do Curso da [Digital Innova
 ## 📚 Documentação
 - 📄[Documentação Git](https://git-scm.com/doc)
 - 📄[Documentação GitHub](https://docs.github.com)
+
 ## 💻 Resumos de Aulas
 | Aulas | Resumos |
 |-------|---------|
@@ -11,7 +12,9 @@ Repositório para armazenar resumos do Git e GitHub. Do Curso da [Digital Innova
 |Instalando o Git e o Github|[Instalação, Configuração e Autenticação](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?autoplay=1&back=%2Ftrack%2Fsuzano-python-developer&moduleId=undefined&tab=undefined)|
 |Criando e  Clonando repositórios|[Primeiros Passos com Git e GitHub](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?autoplay=1&back=%2Ftrack%2Fsuzano-python-developer&moduleId=undefined&tab=undefine)|
 |Materiais de Apoio|[Dicas e Materiais de Apoio](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?autoplay=1&back=%2Ftrack%2Fsuzano-python-developer&moduleId=undefined&tab=undefin)|
+
 ## ⌨️ Comandos Utilizados 
+
 ### Git e GitHub
 Inicializando um Repositório.
 ```
@@ -33,7 +36,23 @@ Exibindo o estado atual do repositório local como: modificações não registra
 ```
 git status
 ```
+Adicionando conteúdo de um arquivo na área de preparação conhecida como (índice ou staging area).
+```
+git add
+```
+Registrando alteração e adicionando uma mensagem de commit para as alterações.
+```
+git commit -m "mensagem de commit"
+````
+Exibindo o histórico de commits do repositório.
+```
+git log
+```
 ### Terminal
+Criando arquivos vazios.
+```
+touch
+```
 Criando um diretório. 
 ```
 mkdir 
@@ -46,7 +65,6 @@ Listando os arquivos e diretórios presentes no diretório atual.
 ```
 ls 
 ```
-## 🔎Referências
+## 🔎 Referências
 - [Introdução ao Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)  
 - [Livro Pro Git](https://git-scm.com/book/en/v2)
-
