@@ -1,6 +1,8 @@
 ![Git e Github](https://i.pinimg.com/736x/ad/55/b6/ad55b65ce48d82309f22cf708e991033.jpg)
+
 # DIO | Resumos Git e GitHub
 Repositório para armazenar resumos do Git e GitHub. Do Curso da [Digital Innovation One](https://www.dio.me/) de Versionamento de Código, com a professora Elidiana Andrade. O intuito é aprender sobre o Git e GitHub e como podemos emplementar projetos, salvar alterações, commits, branch, enviando e baixando alterações com Repositório remoto. 
+
 ## 📚 Documentação
 - 📄[Documentação Git](https://git-scm.com/doc)
 - 📄[Documentação GitHub](https://docs.github.com)
@@ -48,6 +50,7 @@ Exibindo o histórico de commits do repositório.
 ```
 git log
 ```
+
 ### Terminal
 Criando arquivos vazios.
 ```
@@ -65,6 +68,7 @@ Listando os arquivos e diretórios presentes no diretório atual.
 ```
 ls 
 ```
+
 ## 🔎 Referências
 - [Introdução ao Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)  
 - [Livro Pro Git](https://git-scm.com/book/en/v2)
